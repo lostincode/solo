@@ -15,9 +15,9 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^8.2",
-        "illuminate/support": "^10|^11|^12|^13.0",
-        "illuminate/console": "^10|^11|^12|^13.0",
-        "illuminate/process": "^10|^11|^12|^13.0",
+        "illuminate/support": "^10|^11|^12|^13",
+        "illuminate/console": "^10|^11|^12|^13",
+        "illuminate/process": "^10|^11|^12|^13",
         "ext-pcntl": "*",
         "ext-posix": "*",
         "laravel/prompts": "^0.1.21|^0.2|^0.3",
